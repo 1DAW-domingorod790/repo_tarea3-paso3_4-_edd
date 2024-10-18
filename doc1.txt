@@ -1,6 +1,3 @@
 <<<<<<< HEAD
-Adiós soy Carmelo
-
-=======
-Adiós soy Domingo
+holholhola
 >>>>>>> 3c686ed75ef12e2c16322a14f4b5e08cc61b72f9
